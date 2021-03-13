@@ -1,6 +1,6 @@
 <?php
 /**
- * Template Name: Punte Template
+ * Templatesssss Name: Punte Template
  * @package Punte
  */
 global $punte_options, $post;
